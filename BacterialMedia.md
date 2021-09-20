@@ -142,6 +142,18 @@
 | D-cycloserine | 4 mL | Sigma C6880 | 25 mg/mL | 250 ug/mL |
 | Cefoxitin | 800 uL | Fisher AAJ66800MD | 8 mg/mL | 16 ug/mL |
 
+## 10X PBS
+**Use:** Serial Dilutions of cultures
+
+**Instructions:** Mix 800mL water with the items below, pH to 7.4 with HCl/NaOH as needed, bring up to 1L and autoclave. To make 1X, dilute 10x in sterile water, or mix with water and autoclave again.
+
+|Ingredient|Volume or Weight|Ordering Information|
+|----------|----------------|--------------------|
+| Water | Up to 1L | - |
+| NaCl | 80 g | EMSX0420-3 |
+| KCl | 2 g | Sigma 97061-566 |
+| Na2HPO4 | 14.4 g | Sigma S9763-100G |
+| KH2PO4 | 2.4 g | Sigma P5655-100G |
 
 ***
 
