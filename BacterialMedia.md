@@ -125,7 +125,7 @@
 
 **Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*. C. difficile will appear as yellow colonies with irregular shape and will fluoresce green under UV.
 
-**Instructions:** Mix water, peptone, agar, sodium phosphate, potassium phosphate, sodium chloride, magnesium sulfate, and fructose and autoclave. After cooling add neutral red (optional), sodium taurocholate d-cycloserine, and cefoxitin.
+**Instructions:** Mix water, peptone, agar, sodium phosphate, potassium phosphate, sodium chloride, magnesium sulfate, and fructose and autoclave. Separately prepare a solution containing the neutral red, sodium taurocholate, d-cyclserine and cefoxitin in water 10mL water and filter sterilize. After cooling the media from the autoclave, add the filtered supplement mix.
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
@@ -137,10 +137,10 @@
 | NaCl | 0.8 g | Fisher S27 | - | 2 g/L |
 | MgSO4 (anhydrous) | 40mg | Fisher M65 | - | 0.1 g/L |
 | Fructose | 2.5 g | Fisher L96 | - | 6 g/L |
-| Neutral Red | 12 mg | Sigma N7005 | - | 30 mg/L |
-| Sodium Taurocholate | 4 mL | Sigma T4009 | 10% w/v | 0.1% w/v |
-| D-cycloserine | 4 mL | Sigma C6880 | 25 mg/mL | 250 ug/mL |
-| Cefoxitin | 800 uL | Fisher AAJ66800MD | 8 mg/mL | 16 ug/mL |
+| Cefoxitin | 6.4 mg | Fisher AAJ66800MD | - | 16 ug/mL |
+| Neutral Red | 12 mg | Sigma N7005 | - | 30 µg/mL |
+| Sodium Taurocholate | 400mg | Sigma T4009 | - | 0.1% w/v |
+| D-cycloserine | 100 mg | Sigma C6880 | - | 250 ug/mL |
 
 ## 10X PBS
 **Use:** Serial Dilutions of cultures
