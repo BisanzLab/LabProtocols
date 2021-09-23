@@ -202,4 +202,4 @@ Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -
 Dissolve 100 mg d-cycloserine (Sigma C6880) in 4 ml water. Filter sterilize using a 0.45-µm filter. DO NOT STORE, MAKE FRESH!
 
 ### Sodium Taurocholate (10% w/v)
-Dissolve 100 mg in 1 mL water.  Filter sterilize using a 0.45-µm filter and freeze for storage. 
+Dissolve 400 mg in 4 mL water.  Filter sterilize using a 0.45-µm filter and freeze for storage. 
