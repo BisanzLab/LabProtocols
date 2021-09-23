@@ -139,7 +139,7 @@
 | Fructose | 2.5 g | Fisher L96 | - | 6 g/L |
 | Cefoxitin | 6.4 mg | Fisher AAJ66800MD | - | 16 ug/mL |
 | Neutral Red | 12 mg | Sigma N7005 | - | 30 µg/mL |
-| Sodium Taurocholate | 400mg | Sigma T4009 | - | 0.1% w/v |
+| Sodium Taurocholate | 400mg | Sigma T4009 | - | 1mg/mL (0.1% w/v) |
 | D-cycloserine | 100 mg | Sigma C6880 | - | 250 ug/mL |
 
 ## 10X PBS
