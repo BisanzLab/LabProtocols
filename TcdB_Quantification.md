@@ -52,4 +52,4 @@ When setting up the plate using the BioRad software, select the 384 plate templa
 
 To convert from the assay concentration to the genome copies per gram or mL it is essential to know the original mass/volume that was extracted. Assuming the DNA was extracted from 100 mg of feces and the final elution volume during the DNA extraction was 50 ul, and a 10x dilution was performed before the assay see below:
 
-5e5 TcdB copies/ul (from qPCR assay) * (50 ul elution volume / 4 ul template in rxn) * (10 Xdilution) / (0.1g) = 6.25e8 GE/g.
+5e5 TcdB copies/ul (from qPCR assay) * (50 ul elution volume / 2 ul template in rxn) * (10 Xdilution) / (0.1g) = 1.25e9 GE/g.
