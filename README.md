@@ -11,3 +11,4 @@ Protocols for the Wet Lab:
 
 -[Sanger 16S rRNA Sequencing of Isolates](https://github.com/BisanzLab/LabProtocols/blob/main/Isolate_16S.md)
 
+-[Toxin+ C. difficile quantificaiton by qPCR](https://github.com/BisanzLab/LabProtocols/blob/main/TcdB_Quantification.md)
