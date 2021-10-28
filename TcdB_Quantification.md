@@ -44,7 +44,6 @@ Initial Denaturation   |	95	| 5min
 Denature | 95˚C | 5 sec
 Anneal/Extend | 56.6˚C	| 15 sec
 ||
-Hold	| 4˚C	Hold | 0 sec
 
 When setting up the plate using the BioRad software, select the 384 plate template with all channels (not the FAM/SYBR only). Using the plate editor, change your standard curves from unknown, to standards and enter the copy number you have calculated.
 
