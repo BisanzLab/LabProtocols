@@ -7,7 +7,7 @@
 - [ ] 384 Plates for qPCR (Biorad #HSP3865)
 - [ ] Optically clear Plate Seals (Biorad Microseal ‘B’ #MSB1001)
 - [ ] 10x Assay mix (prepare 2µM of each oligo below in nuclease-free water)
-- [ ] 10-fold dilution series of gDNA (from a TcdB+ *C. difficile*). Use the QuBit DNA concentration to calculate genome copy number based on [genome size to genome copy number](http://nebiocalculator.neb.com/#!/dsdnaamt). For example: 2.1ng of <i>C. difficile</i> 630 ~ 5.5E5 genome copies = 5.5e5 TcdB copies.
+- [ ] 10-fold dilution series of gDNA (from a TcdB+ *C. difficile*). Use the QuBit DNA concentration to calculate genome copy number based on [genome size to genome copy number](http://nebiocalculator.neb.com/#!/dsdnaamt). For example: 2.14ng of <i>C. difficile</i> JBZPo1 (4,097,778bp) ~ 5.5E5 genome copies = 5.5e5 TcdB copies.
 - [ ] Extracted gDNA and knowledge of the original weight/volume extracted and the final elution volume. Check the gDNA using a nanodrop and if there is any indiciation of suspected ethanol carryover, dilute all samples 10x before running.
 
 
