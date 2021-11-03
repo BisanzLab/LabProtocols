@@ -104,6 +104,7 @@ If only a few samples are being processed this will be faster. The Qiagen PCR cl
 ***
 ## 7. Sequencing (Huck Genomics Core)
 **TBD**
+- [ ] Drop off samples between 8-430 to the black desk outside Chandlee Room 413 with a copy of the order submitted through iLabs.
 
 ***
 ## 8. Cleaning and interpreting sequence
