@@ -102,15 +102,12 @@ If only a few samples are being processed this will be faster. The Qiagen PCR cl
 - [ ] (optional) Prepare and run a 1% agarose gel using TAE or TBE buffer using 10 µL of PCR reaction. Confirm presence of ~1,500 bp band and the absence of product in the NTC.
 
 ***
-## 7. Sequencing (GeneWiz)
-*GeneWiz requests sequencing reactions in strip tubes. Each product must be sequenced 2x for the full length 16S gene and thus prepare two sequencing reactions for each product. 8F and 1543R can be used for sequencing, alternatively 515F and 806R can be used to sequence out from the center of the product which might give better recovery of the ends.
-- [ ] Using GeneWiz account, create a sequencing request for premixed sequencing. Select Sanger Sequencing with the following options: DNA Type = PCR Product - Purefied; Service Type = Premixed; # of Samples = 2 times # of samples (each sample with forward and reverse primers). The order confirmation will include a specified layout of strip tubes or plates for each combination of sample and primer.
-- [ ] For each product: in one tube, place 5 µL of 10 ng/µL product into a strip tube and add 10 µL of 2 µM  8F (or 515F), and in a second tube, another 5 µL of product with 10 µL of 2 µM 1543R (or 806RB). **Do not add forward and reverse primers to the same tube**.
-- [ ] Drop off samples in folder outside labs on 10th floor HSW.
+## 7. Sequencing (Huck Genomics Core)
+**TBD**
 
 ***
 ## 8. Cleaning and interpreting sequence
-- [ ] When sequence results are available (usually before 8am the following morning), download **.ab1** files.
+- [ ] When sequence results are available (usually next day), download **.ab1** files.
 - [ ] Using [4 Peaks](https://nucleobytes.com/4peaks/index.html) (mac) or [FinchTV](http://jblseqdat.bioc.cam.ac.uk/gnmweb/download/soft/FinchTV_1.4/doc/) (windows) trim trace to remove any Ns, resolving them by manually inspecting the electropherogram where possible.
 - [ ] Overlap sequences using a program such as [CAP3](http://doua.prabi.fr/software/cap3).
 - [ ] [Nucleotide BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) against NCBI nr and NCBI 16S reference sequences excluding matches to uncultured material.
