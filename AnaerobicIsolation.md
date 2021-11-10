@@ -32,6 +32,7 @@ TCCFA | *C. difficile* (yellow), *C. inocuum* (yellow), *Enterococcus spp.* (wil
 TSA Blood | not specific
 TOS Proprionate | *Bifidobacterum spp.*
 BBE | *Bacteroides spp.*
+BE | *Enterococcus and Streptococcus*
 CIN | Proteobacteria, *Yersinia spp.*, *Aeromonas spp.*
 *\*See recipes [here](https://github.com/BisanzLab/LabProtocols/blob/main/BacterialMedia.md)*
 
