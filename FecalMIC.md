@@ -3,11 +3,11 @@
 To determine the effects of drugs on gut microbiota composition
 
 ## Materials
-- [ ] Sterile H2O or DMF (ORDERING INFO)
-- [ ] Syringe Filters (ORDERING INFO FOR THE ONES THAT ARE COMPATIBLE WITH SOLVENTS)
-- [ ] 96 well culture plates (ORDERING INFO)
-- [ ] Deep well plates (ORDERING INFO)
-- [ ] 50 mL reservoirs (ORDERING INFO)
+- [ ] Sterile H2O or DMF (Sigma **319937**)
+- [ ] Syringe Filters (Nylon-VWR **28145**; SFCA-Corning **431219**)
+- [ ] 96 well culture plates (Falcon **351177**)
+- [ ] Deep well plates (VWR **75870-796**)
+- [ ] 50 mL reservoirs (USA Scientific **1930-2530**)
 
 ## Preparation of drug stocks:
 - [ ] Dissolve drug in water or DMF at a concentration of 25.6 mg/mL
@@ -41,7 +41,7 @@ The well plate should contain the following drug concentrations:
 ## Preparation of fecal samples:
 
 1.	Take 100mg aliquot of fecal sample out of -80˚C freezer and into the anaerobic chamber
-2.	Place the aliquot in a tube with 1mL media (BIH CHV or mGAM)
+2.	Place the aliquot in a tube with 1mL media (BHI CHV or mGAM)
 3.	Vortex for 5-10 sec to homogenize the fecal sample
 4.	Let the homogenized mixture sit for a few minutes to let the solids settle
 
