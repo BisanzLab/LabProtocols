@@ -125,7 +125,7 @@
 
 **Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*. C. difficile will appear as yellow colonies with irregular shape and will fluoresce green under UV.
 
-**Instructions:** Mix water, peptone, agar, sodium phosphate, potassium phosphate, sodium chloride, magnesium sulfate, and fructose and autoclave. Separately prepare a solution containing the neutral red, sodium taurocholate, d-cyclserine and cefoxitin in water 10mL water and filter sterilize. After cooling the media from the autoclave, add the filtered supplement mix.
+**Instructions:** Mix water, peptone, agar, sodium phosphate, potassium phosphate, sodium chloride, magnesium sulfate, neutral red, and fructose and autoclave. Separately prepare a solution containing the sodium taurocholate, d-cyclserine and cefoxitin in 10mL water and filter sterilize. After cooling the media from the autoclave, add the filtered supplement mix.
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
