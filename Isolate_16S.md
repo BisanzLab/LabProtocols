@@ -1,5 +1,5 @@
 # Pure culture isolate DNA extraction and 16S rRNA sequencing protocol
-## Version 1.1: 14 Aug, 2018
+## Version 1.2: 13 Dec, 2021
 
 ***
 
@@ -26,35 +26,36 @@ This protocol is intended for the identification of pure culture isolates from a
 ***
 ## 3. DNA Extraction
 - [ ] Pick a single colony from a freshly prepared culture plate and resuspend
-in 1mL of PBS or sterile H2O in a microcentrifuge tube
+in 1mL of PBS or sterile H2O in a microcentrifuge tube **OR** Transfer 200ul from a broth culture to a microcentrigue tube.
 - [ ] Centrifuge at ~10,000 xg for 1 minute.
-- [ ] Remove the supernatant and resuspend in 200 µL of Instagene matrix (matrix should be well mixed and use wide bore tips)
+- [ ] Remove the supernatant and resuspend in 100 µL of Instagene matrix (matrix should be well mixed and use wide bore tips)
 - [ ] Mix thoroughly by vortexing
 - [ ] Incubate at 56˚C for 30 minutes
 - [ ] Mix thoroughly by vortexing
 - [ ] Incubate at 100˚C for 8 minutes
 - [ ] Mix thoroughly by vortexing
 - [ ] Centrifuge for 3 minutes at max (~16,000 xg)
-- [ ] Transfer 100 µL of the supernatant containing gDNA to a new
+- [ ] Transfer 60 µL of the supernatant containing gDNA to a new
 microcentrifuge tube. This is optional and supernatant can be used directly for PCR.
 - [ ] Store gDNA at -20˚C for long term storage or 4˚C for short term.
 
 ***
 ## 4. PCR
 
-- [ ] Prepare aa master mix for PCR as outlined in Table 4.1.
-- [ ] Add 5 µL of gDNA for a total reaction volume of 50 µL. Be sure to include a reaction with 5 µL of H2O as no template control (NTC).
+- [ ] Prepare a master mix for PCR as outlined in Table 4.1.
+- [ ] Add 1 µL of gDNA for a total reaction volume of 20 µL. Be sure to include a reaction with 1 µL of H2O as no template control (NTC).
 - [ ] Pop spin to remove any air bubbles.
 - [ ] Run the PCR using the PCR cycle parameters indicated in Table 4.2
 
 ##### Table 4.1 PCR Master Mix
 Component	| Stock Concentration | Final Concentration | per 50µL rxn
 ----------|---------------------|---------------------|-------------
-Amplitaq Gold | 2x | 1x | 25 µL
-8F | 2µM | 400 nM | 10 µL
-1542R | 2µM | 400nM | 10 µL
-gDNA | variable | variable | 5µL
-**Total** | | | **50 µL**
+Amplitaq Gold | 2x | 1x | 10 µL
+Water | - | - | 4 µL
+8F | 2µM | 400 nM | 2 µL
+1542R | 2µM | 400nM | 2 µL
+gDNA | variable | variable | 1µL
+**Total** | | | **20 µL**
 
 ##### Table 4.2 PCR Cycles
 Cycle |	Temperature (˚C)  | Time
@@ -72,7 +73,7 @@ Holding	| 4˚C	Hold | 0 sec
 
 #### Option A: AMPure XP beads
 This protocol works better for a large number of samples being processed.
-- [ ] Add 90 µL AMPure XP beads (make sure well suspended) to 50 µL PCR reaction (1.8x volume beads)
+- [ ] Add 18 µL AMPure XP beads (make sure well suspended) to 20 µL PCR reaction (0.9x volume beads)
 - [ ] Mix by pipetting and capture for ~5 min on magnetic rack
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
@@ -102,9 +103,9 @@ If only a few samples are being processed this will be faster. The Qiagen PCR cl
 - [ ] (optional) Prepare and run a 1% agarose gel using TAE or TBE buffer using 10 µL of PCR reaction. Confirm presence of ~1,500 bp band and the absence of product in the NTC.
 
 ***
-## 7. Sequencing (Huck Genomics Core)
+## 7. Sequencing
 **TBD**
-- [ ] Drop off samples between 8-430 to the black desk outside Chandlee Room 413 with a copy of the order submitted through iLabs.
+
 
 ***
 ## 8. Cleaning and interpreting sequence
