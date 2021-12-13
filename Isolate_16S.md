@@ -51,7 +51,7 @@ microcentrifuge tube. This is optional and supernatant can be used directly for 
 Component	| Stock Concentration | Final Concentration | per 50µL rxn
 ----------|---------------------|---------------------|-------------
 Amplitaq Gold | 2x | 1x | 10 µL
-Water | - | - | 4 µL
+Water | - | - | 5 µL
 8F | 2µM | 400 nM | 2 µL
 1542R | 2µM | 400nM | 2 µL
 gDNA | variable | variable | 1µL
