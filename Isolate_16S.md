@@ -1,5 +1,5 @@
 # Pure culture isolate DNA extraction and 16S rRNA sequencing protocol
-## Version 1.2: 13 Dec, 2021
+## Version 1.3: 4 Jab, 2022
 
 ***
 
