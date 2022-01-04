@@ -77,13 +77,12 @@ This protocol works better for a large number of samples being processed.
 - [ ] Mix by pipetting and capture for ~5 min on magnetic rack
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
-- [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
 - [ ] Keeping tubes on magnetic rack, remove supernatant.
 - [ ] Pop spin to bring down any ethanol on the sides. Capture on stand.
 - [ ] Use 10µL pipette to remove any trace EtOH on bottom of rack.
 - [ ] Air dry ~10 min.
-- [ ] Add 30 µL water and pipette to mix. This step elutes the DNA off the beads. Capture on magnetic rack ~2-5 minutes.
-- [ ] Remove 25 µL of eluted DNA to fresh tube and discard bead tubes.
+- [ ] Add 25 µL water and pipette to mix. This step elutes the DNA off the beads. Capture on magnetic rack ~2-5 minutes.
+- [ ] Remove 20 µL of eluted DNA to fresh tube and discard bead tubes.
 
 
 #### Option B: Purelink PCR cleanup
@@ -104,8 +103,10 @@ If only a few samples are being processed this will be faster. The Qiagen PCR cl
 
 ***
 ## 7. Sequencing
-**TBD**
-
+*GeneWiz requests sequencing reactions in strip tubes if <48 samples. If using strip tubes, label the first and last tube with the corresponding ID from the genewiz order confirmation. If a full length sequence is desired, both 8F and 1543R can be used for sequencing in two different reactions, otherwise just use 8F.
+- [ ] Using GeneWiz account found on slack channel, create a sequencing request for premixed sequencing. Select Sanger Sequencing with the following options: DNA Type = PCR Product - Purefied; Service Type = Premixed; # of Samples = 2; Purification Type = Other Ampure XP. The order confirmation will include a specified layout of strip tubes or plates for each combination of sample and primer.
+- [ ] For each sequencing reaction, place 5 µL of 10 ng/µL product into a strip tube and add 10 µL of 2 µM  8F (or 1543R but not both!)). **Do not add forward and reverse primers to the same tube**.
+- [ ] Drop off samples in drop box.
 
 ***
 ## 8. Cleaning and interpreting sequence
