@@ -1,4 +1,4 @@
-#*C. difficile* Spore Isolation and Germination Assay
+# *C. difficile* Spore Preparation
 
 
 # Background 
