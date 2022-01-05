@@ -16,3 +16,5 @@ Protocols for the Wet Lab:
 -[Toxin+ C. difficile quantificaiton by qPCR](https://github.com/BisanzLab/LabProtocols/blob/main/TcdB_Quantification.md)
 
 -[Fecal MIC Assays](https://github.com/BisanzLab/LabProtocols/blob/main/Biohazards.md)
+
+-[*C. difficile* Spore Preparation](https://github.com/BisanzLab/LabProtocols/blob/main/Cdifficile_Spore_Prep.md)
