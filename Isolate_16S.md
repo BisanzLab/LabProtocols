@@ -48,7 +48,7 @@ microcentrifuge tube. This is optional and supernatant can be used directly for 
 - [ ] Run the PCR using the PCR cycle parameters indicated in Table 4.2
 
 ##### Table 4.1 PCR Master Mix
-Component	| Stock Concentration | Final Concentration | per 50µL rxn
+Component	| Stock Concentration | Final Concentration | per 20µL rxn
 ----------|---------------------|---------------------|-------------
 Amplitaq Gold | 2x | 1x | 10 µL
 Water | - | - | 5 µL
