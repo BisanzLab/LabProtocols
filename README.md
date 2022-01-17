@@ -19,4 +19,4 @@ Protocols for the Wet Lab:
 
 -[*C. difficile* Spore Preparation](https://github.com/BisanzLab/LabProtocols/blob/main/Cdifficile_Spore_Prep.md)
 
-- [ERIC PCR for de-replicating isolates](https://github.com/BisanzLab/LabProtocols/blob/main/EricPCR.md)
+-[ERIC PCR for de-replicating isolates](https://github.com/BisanzLab/LabProtocols/blob/main/EricPCR.md)
