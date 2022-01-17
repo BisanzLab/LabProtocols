@@ -18,3 +18,5 @@ Protocols for the Wet Lab:
 -[Fecal MIC Assays](https://github.com/BisanzLab/LabProtocols/blob/main/Biohazards.md)
 
 -[*C. difficile* Spore Preparation](https://github.com/BisanzLab/LabProtocols/blob/main/Cdifficile_Spore_Prep.md)
+
+- [ERIC PCR for de-replicating isolates](https://github.com/BisanzLab/LabProtocols/blob/main/EricPCR.md)
