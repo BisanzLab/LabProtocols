@@ -43,7 +43,7 @@ microcentrifuge tube. This is optional and supernatant can be used directly for 
 ## 4. PCR
 
 - [ ] Prepare a master mix for PCR as outlined in Table 4.1.
-- [ ] Add 1 µL of gDNA for a total reaction volume of 20 µL. Be sure to include a reaction with 1 µL of H2O as no template control (NTC).
+- [ ] Add 2 µL of gDNA for a total reaction volume of 20 µL. Be sure to include a reaction with 2 µL of H2O as no template control (NTC).
 - [ ] Pop spin to remove any air bubbles.
 - [ ] Run the PCR using the PCR cycle parameters indicated in Table 4.2
 
@@ -51,10 +51,9 @@ microcentrifuge tube. This is optional and supernatant can be used directly for 
 Component	| Stock Concentration | Final Concentration | per 20µL rxn
 ----------|---------------------|---------------------|-------------
 Amplitaq Gold | 2x | 1x | 10 µL
-Water | - | - | 5 µL
-8F | 2µM | 400 nM | 2 µL
-1542R | 2µM | 400nM | 2 µL
-gDNA | variable | variable | 1µL
+8F | 2µM | 400 nM | 4 µL
+1542R | 2µM | 400nM | 4 µL
+gDNA | variable | variable | 2µL
 **Total** | | | **20 µL**
 
 ##### Table 4.2 PCR Cycles
