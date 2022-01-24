@@ -2,7 +2,7 @@
 
 ## Note
 
-This document summarizes information found in our Institutional Biosafety Committee Protocol. The official IBC protocol and/or any PSU-specific safety guidance supersedes what is written here and this document may be out of sync with the official IBC protocol.
+This document summarizes information found in our Institutional Biosafety Committee Protocol and Animal Biosafety Protocol. The official IBC protocol and/or any PSU-specific safety guidance supersedes what is written here and this document may be out of sync with the official IBC protocol.
 
 ***
 
@@ -87,7 +87,7 @@ We do not currently have respirators available in the lab as we are not working 
 
 ***
 
-## Handling BSL2 Cultures
+## Handling BSL2 Agents
 
 ### Aerobes
 
@@ -96,6 +96,10 @@ All manipulations of BSL2 aerobes which could create aerosols (ex vortexing) sho
 ### Anaerobes
 
 Manipulation of facultative anaerobes or aerotolerant anaerobes should be conducted as per Aerobes in a biological safety cabinet. For obligate anaerobes, manipulate all cultures inside of Coy Anaerobic Chamber. Before and after work, wipe all surfaces down with 100% isopropanol. All materials which contact cultures inside the coy should be discarded into the biohazardous bin inside the anaerobic chamber. Empty the anaerobic chamber's biohazardous waste into the main lab's biohazardous waste for disposal above.
+
+### Animals
+
+Animals will be housed within isolators which will serve as containment for inoculated animals. Materials such as soiled bedding, leftover feed, water, and caging will be autoclaved upon removal from the isolator. When animals or samples are removed from the isolator, they will be placed in a sealed container which is decontaminated with chlorine dioxide (Exspore) during removal. Subsequent handling of animals and samples that are permanently removed from the isolator will be conducted within a biosafety cabinet. While working with animals, wear gloves, safety glasses, and a lab coat/gown.
 
 ***
 
