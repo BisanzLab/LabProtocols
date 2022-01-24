@@ -14,7 +14,7 @@ We have a mixture of BSL1 and BSL2 micro-organisms in the lab. You can tell the 
 
 ### Human Feces
 
-Human feces, even when collected from healthy donors, may harbor a variety of pathogens of bacterial, viral, and parasite origin. Feces should be treated with universal procaution as we can't be 100% sure of what it could contain.
+Human feces, even when collected from healthy donors, may harbor a variety of pathogens of bacterial, viral, and parasite origin. Feces should be treated with universal precaution as we can't be 100% sure of what it could contain.
 
 ### ABSL2 Animals/Tissue
 
@@ -26,7 +26,7 @@ Human cell lines may also be a biological safety concern and should be handled a
 
 ### Recombinant DNA
 
-Recombinant DNA and organisms carrying it need to be treated as BSL2 agents to prevent their spread into the environment. Especially when that recombinant DNA encodes bacterial toxins or components their of.
+Recombinant DNA and organisms carrying it need to be treated as BSL2 agents to prevent their spread into the environment. Especially when that recombinant DNA encodes bacterial toxins or components thereof.
 
 ***
 
@@ -36,11 +36,11 @@ We have 3 types of hoods in the lab: biosafety cabinets, chemical fume hoods, an
 
 To use the BSC, turn it on 5-10 minutes ahead of time and turn on the UV light (do not look directly at the UV light). Make sure the back of the BSC is clear to allow proper air flow. Avoid sudden motions in and out of the BSC which could disturb airflow and avoid walking directly behind someone using the BSC which may disrupt air flow. When you are done with the BSC, spray and wipe surfaced with 70% ethanol, and turn on the UV light for >=15 minutes. 
 
-**Note:** PSU does not reccomend the use of UV as a primary method of disinfection. Think of it more as an extra layer of defense with the wiping of the hood with ethanol as the primary method of cleaning.
+**Note:** PSU does not recommend the use of UV as a primary method of disinfection. Think of it more as an extra layer of defense with the wiping of the hood with ethanol as the primary method of cleaning.
 
 ***
 
-## Disposabling of Biohazardous Waste
+## Disposing of Biohazardous Waste
 
 See [PSU policity SY29](https://policy.psu.edu/policies/sy29).
 
@@ -48,17 +48,22 @@ See [PSU policity SY29](https://policy.psu.edu/policies/sy29).
 
 Liquid waste (examples: culture supernatants, blood, fecal extracts) can be disposed of in two ways: inactivate with sodium hypochlorite (bleach) or by autoclave:
 
-**Option 1: Autoclave.** Collect liquid waste in autoclavable container which is no more than half full (for example a pyrex bottle). Autoclave on a liquid cycle which has a sterilization time of at least 30 minutes. After the waste has cooled, it can be disposed of down the sink. **Note: do not add bleach if you will autoclave as autoclaving bleach-containing waste can release toxic gasses**. *This is the prefered method for disposing of C. difficile liquid cultures.*
+**Option 1: Autoclave.** Collect liquid waste in autoclavable container which is no more than half full (for example a pyrex bottle). Autoclave on a liquid cycle which has a sterilization time of at least 30 minutes. After the waste has cooled, it can be disposed of down the sink. **Note: do not add bleach if you will autoclave as autoclaving bleach-containing waste can release toxic gasses**. *This is the preferred method for disposing of C. difficile liquid cultures.*
 
-**Option 2: Bleach.** Collect liquid waste and add 1/10th volume of bleach. Leave to disinfect for 1 hour and then pour down drain. Ensure bleach is <6 months old and has a concentration of at least 5.25% sodium hypochlorite (*Note: Clorox is 8.25%*). If the culture contains purified spores from *C. difficile* either autoclave instead or add 2% NaOH to bleach (can use sodiym hydroxide pellets). Do not leave bleached cultures in the sink for more than 24h.
+**Option 2: Bleach.** Collect liquid waste and add 1/10th volume of bleach. Leave to disinfect for 1 hour and then pour down drain. Ensure bleach is <6 months old and has a concentration of at least 5.25% sodium hypochlorite (*Note: Clorox is 8.25%*). If the culture contains purified spores from *C. difficile* either autoclave instead or add 2% NaOH to bleach (can use sodium hydroxide pellets). Do not leave bleached cultures in the sink for more than 24h.
 
 ### Solid Waste
 
-All waste which has come into contact with BSL2 agents (ex, petri dishes, pipette tips, gloves, etc) should be disposed of in the red biohazardous waste containers around the lab. When these are ~2/3 full, move them to the main biohazard waste pale in the lab. When the main waste is ~1/2 full, it should be sterilized in the autclave using the 60 minute waste cycle on the autoclave. After autoclaving, it can be transfered to the white bins next to the autoclave. **Never over-fill the waste as it makes it dangerous to handle for disposal!**.
+All waste which has come into contact with BSL2 agents (ex, petri dishes, pipette tips, gloves, etc) should be disposed of in the red biohazardous waste containers around the lab. When these are ~2/3 full, move them to the main biohazard waste pale in the lab. When the main waste is ~1/2 full, it should be sterilized in the autoclave using the 60 minute waste cycle on the autoclave. After autoclaving, it can be transferred to the white bins next to the autoclave. **Never over-fill the waste as it makes it dangerous to handle for disposal!**.
+
 
 ### Sharps
 
 All sharps (ex. needles or razor blades) should be disposed of in hard-shelled sharp containers around the lab. Never fill these containers above the fill line!
+
+### Animal Carcasses
+
+Animal carcasses must be double bagged with the outermost bag being a red autoclavable bag identifying the contents as biohazardous. These may be temporarily stored in lab -20˚C freezers until being returned to South Frear to the designated freezer for incineration.
 
 ***
 
@@ -70,7 +75,7 @@ Lab coats are available for everyone in the lab. If these become soiled for any 
 
 ### Gloves
 
-The lab has a supply of nitrile gloves in all sizes. Nitrile is the prefered material for most applications; however, if you require a different material or glove style, please bring this to my attention!
+The lab has a supply of nitrile gloves in all sizes. Nitrile is the preferred material for most applications; however, if you require a different material or glove style, please bring this to my attention!
 
 ### Safety Glasses
 
@@ -86,11 +91,24 @@ We do not currently have respirators available in the lab as we are not working 
 
 ### Aerobes
 
-All manipulations of BSL2 aerobes which could create aerosoles (ex vortexing) should be conducted in a Biosafety Cabinet to prevent spread. When BSL2 agents are centrifuged, be sure to use a centrifuge which has the appropriate aerosol-containing rotors/safety cup such as any of our microcentrifuges. The user should wear appropriate PPE (nitrile gloves, lab coat and glasses) and avoid blocking the entire back of the hood which can disrupt air flow. Discard all materials inside the BSC into the red biohazardous disposal bin inside the hood. When you finish your work, wipe down the work surfaces with 70˚C Ethanol and turn the UV light on for at least 30 minutes. Discard gloves in biohazardous trash. Cultures can be grown in the incubators in 304C; however, manipulations of said cultures should be always done in the biological safety cabinet.
+All manipulations of BSL2 aerobes which could create aerosols (ex vortexing) should be conducted in a Biosafety Cabinet to prevent spread. When BSL2 agents are centrifuged, be sure to use a centrifuge which has the appropriate aerosol-containing rotors/safety cup such as any of our microcentrifuges. The user should wear appropriate PPE (nitrile gloves, lab coat and glasses) and avoid blocking the entire back of the hood which can disrupt air flow. Discard all materials inside the BSC into the red biohazardous disposal bin inside the hood. When you finish your work, wipe down the work surfaces with 70˚C Ethanol and turn the UV light on for at least 30 minutes. Discard gloves in biohazardous trash. Cultures can be grown in the incubators in 304C; however, manipulations of said cultures should be always done in the biological safety cabinet.
 
 ### Anaerobes
 
 Manipulation of facultative anaerobes or aerotolerant anaerobes should be conducted as per Aerobes in a biological safety cabinet. For obligate anaerobes, manipulate all cultures inside of Coy Anaerobic Chamber. Before and after work, wipe all surfaces down with 100% isopropanol. All materials which contact cultures inside the coy should be discarded into the biohazardous bin inside the anaerobic chamber. Empty the anaerobic chamber's biohazardous waste into the main lab's biohazardous waste for disposal above.
+
+***
+
+## Transporting BSL2 Materials
+
+### Animals
+
+When transporting ABSL2 animals, they must be transported in either cages with filter lids which are secured (example with tape) or in temporary transport containers which are secured in the event they tip over. Animals must be transported between buildings inside an insulated secondary container to prevent exposure to temperature extremes and to protect against animal escape. Both cages and/or transport containers must be appropriately labelled as biohazards.
+
+
+### Cultures/Feces
+
+If moving other BSL2 materials anywhere outside the lab or between buildings, they need to be in a secondary unbreakable container (for example a nalgene or tuperware) which contains sufficient absorbent materials to contain a spill. The secondary container needs to be labeled with a biohazard label.
 
 *** 
 
@@ -108,6 +126,6 @@ Manipulation of facultative anaerobes or aerotolerant anaerobes should be conduc
 - [ ] Don't touch your cell phone with your gloved hands
 - [ ] Consider cleaning your cell phone on a regular basis using isopropanol
 - [ ] Do not eat or drink anywhere inside the lab. You can transfer closed materials through the lab to the lunch room by my office for your enjoyment.
-- [ ] Do not bleach nucleic acid extraction waste as it frequently contains guadinine isothiocynate which reacts with bleach to release cyanide gass. The act of nucleic acid extract is generally sufficient to kill anything in the sample and the waste from DNA extraction should be disposed of as chemical waste.
+- [ ] Do not bleach nucleic acid extraction waste as it frequently contains guadinine isothiocynate which reacts with bleach to release cyanide gas. The act of nucleic acid extract is generally sufficient to kill anything in the sample and the waste from DNA extraction should be disposed of as chemical waste.
 - [ ] Using old bleach solutions. Diluted bleach is not stable and can rapidly loose activity. Always use fresh bleach from the original container.
 
