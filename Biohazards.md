@@ -32,7 +32,7 @@ Recombinant DNA and organisms carrying it need to be treated as BSL2 agents to p
 
 ## Using a Biosafety Cabinet
 
-We have 3 types of hoods in the lab: biosafety cabinets, chemical fume hood, and PCR laminar flow hood. Neither the chemical fume hood or PCR hood are intended to  control biological hazards, and in the case of the PCR hood, offer the user no protection. Air going in and out of the BSC is filtered to remove contaminants and protect both you, and the sample you are working with. Air from the chamber is exhausted out of the building.
+We have 3 types of hoods in the lab: biosafety cabinets, chemical fume hoods, and PCR laminar flow hoods. Neither the chemical fume hood or PCR hood are intended to  control biological hazards, and in the case of the PCR hood, offer the user no protection. Air going in and out of the BSC is filtered to remove contaminants and protect both you, and the sample you are working with. Air from the chamber is exhausted out of the building.
 
 To use the BSC, turn it on 5-10 minutes ahead of time and turn on the UV light (do not look directly at the UV light). Make sure the back of the BSC is clear to allow proper air flow. Avoid sudden motions in and out of the BSC which could disturb airflow and avoid walking directly behind someone using the BSC which may disrupt air flow. When you are done with the BSC, spray and wipe surfaced with 70% ethanol, and turn on the UV light for >=15 minutes. 
 
