@@ -64,8 +64,8 @@
 | Water | Up to 360 mL | - | - | - | - |
 | Gifu Anaerobic Broth | 23.6 g | HiMedia M1801 | - | 59 g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
-| Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
-| Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
+| Hemin | 500 µL | Sigma 51280 | 5 mg/mL | 5 µg/mL |
+| Vitamin K3 | 500 µL | Sigma M5625 | 1 mg/mL | 1 µg/mL |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
 ## Fastidious Anaerobe Agar (FAA)
