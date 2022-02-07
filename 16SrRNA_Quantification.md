@@ -30,7 +30,8 @@ The master mix we are using has an antibody-mediated hot-start, and as such can 
 |-|-|-|-|
 |iTaq Supermix|2X|5|1X|
 |10X assay mix|2µM|1|200nM|
-|DNA template|variable|4|varable|
+|Water|-|2|-|
+|DNA template|variable|2|varable|
 
 After setting up the plate, breifly centrifuge to mix and remove air bubbles before transfering to the CFX384.
 
