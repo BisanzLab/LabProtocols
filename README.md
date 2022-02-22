@@ -22,3 +22,5 @@ Protocols for the Wet Lab:
 -[ERIC PCR for de-replicating isolates](https://github.com/BisanzLab/LabProtocols/blob/main/EricPCR.md)
 
 -[Culturing Caco2 cells](https://github.com/BisanzLab/LabProtocols/blob/main/Caco2.md)
+
+-[Drop Plates for Bacterial Quantification](https://github.com/BisanzLab/LabProtocols/blob/main/DropPlates.md)
