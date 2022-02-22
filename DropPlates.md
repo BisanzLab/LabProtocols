@@ -1,6 +1,6 @@
-## Serial dilution and bacterial stock concentration calculation
+# Bacterial Quantification by the Drop Plate MEthod
 
-This protocol/tutorial is about how to properly do a serial dilution in the context of calculating the concentration of a stock solution (ex. C. difficile spore stock), and to correct and prevent having any further misunderstandings of definitions. 
+This protocol is about how to properly do a serial dilution in the context of calculating the concentration of a bacterial culture (ex. *C. difficile* spore stock).
 
 Serial dilution refers to the idea of diluting a solution in a stepwise manner. By plating a portion of each dilution on a plate and performing colony enumeration, we can calculate the concentration of the bacterial stock based on the number of colonies on the plate at each dilution. 
 
@@ -26,10 +26,10 @@ Serial dilution refers to the idea of diluting a solution in a stepwise manner. 
 
 
 ![fig1](https://github.com/SusanTian/images/raw/main/96_well.png)
-**Figure 1. The pictorial illustration of serial dilution in a 96-well plate. 
+**Figure 1.** The pictorial illustration of serial dilution in a 96-well plate. 
 
 ![fig2](https://github.com/SusanTian/images/raw/main/plating.png)
-**Figure 2. The pictorial illustration of how each solution is plated. 10 uL from each dilution is plated. The plating pattern on the right is recommended for doing smaller scale drop plates with single pipettors and the pattern on the right is recommended for doing drop plates for larger scales, for example, a full plate of dilutions and this can be down by using a multi-channel pipettor. 
+**Figure 2.** The pictorial illustration of how each solution is plated. 10 uL from each dilution is plated. The plating pattern on the right is recommended for doing smaller scale drop plates with single pipettors and the pattern on the right is recommended for doing drop plates for larger scales, for example, a full plate of dilutions and this can be down by using a multi-channel pipettor. 
 
 ***
 ## Protocol:
