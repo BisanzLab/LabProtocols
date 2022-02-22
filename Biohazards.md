@@ -36,7 +36,7 @@ We have 3 types of hoods in the lab: biosafety cabinets, chemical fume hoods, an
 
 To use the BSC, turn it on 5-10 minutes ahead of time and turn on the UV light (do not look directly at the UV light). Make sure the back of the BSC is clear to allow proper air flow. Avoid sudden motions in and out of the BSC which could disturb airflow and avoid walking directly behind someone using the BSC which may disrupt air flow. When you are done with the BSC, spray and wipe surfaced with 70% ethanol, and turn on the UV light for >=15 minutes. 
 
-**Note:** PSU does not recommend the use of UV as a primary method of disinfection. Think of it more as an extra layer of defense with the wiping of the hood with ethanol as the primary method of cleaning.
+**Note:** PSU does not recommend the use of UV as a primary method of disinfection and UV light can be blocked simply by plastic (like petri dish lids). Think of it more as an extra layer of defense with the wiping of the hood with ethanol as the primary method of cleaning.
 
 ***
 
@@ -50,11 +50,11 @@ Liquid waste (examples: culture supernatants, blood, fecal extracts) can be disp
 
 **Option 1: Autoclave.** Collect liquid waste in autoclavable container which is no more than half full (for example a pyrex bottle). Autoclave on a liquid cycle which has a sterilization time of at least 30 minutes. After the waste has cooled, it can be disposed of down the sink. **Note: do not add bleach if you will autoclave as autoclaving bleach-containing waste can release toxic gasses**. *This is the preferred method for disposing of C. difficile liquid cultures.*
 
-**Option 2: Bleach.** Collect liquid waste and add 1/10th volume of bleach. Leave to disinfect for 1 hour and then pour down drain. Ensure bleach is <6 months old and has a concentration of at least 5.25% sodium hypochlorite (*Note: Clorox is 8.25%*). If the culture contains purified spores from *C. difficile* either autoclave instead or add 2% NaOH to bleach (can use sodium hydroxide pellets). Do not leave bleached cultures in the sink for more than 24h.
+**Option 2: Bleach.** Collect liquid waste and add 1/10th volume of bleach. Leave to disinfect for 1 hour and then pour down drain. Ensure bleach is <6 months old and has a concentration of at least 5.25% sodium hypochlorite (*Note: Clorox is 8.25%*). If the culture contains purified spores from *C. difficile* either autoclave instead or add 2% NaOH to bleach (can use sodium hydroxide pellets). Do not leave bleached cultures in the sink for more than 24h. 
 
 ### Solid Waste
 
-All waste which has come into contact with BSL2 agents (ex, petri dishes, pipette tips, gloves, etc) should be disposed of in the red biohazardous waste containers around the lab. When these are ~2/3 full, move them to the main biohazard waste pale in the lab. When the main waste is ~1/2 full, it should be sterilized in the autoclave using the 60 minute waste cycle on the autoclave. After autoclaving, it can be transferred to the white bins next to the autoclave. **Never over-fill the waste as it makes it dangerous to handle for disposal!**.
+All waste which has come into contact with BSL2 agents (ex, petri dishes, pipette tips, gloves, etc) should be disposed of in the red biohazardous waste containers around the lab. When these are ~2/3 full, move them to the main biohazard waste pale in the lab. When the main waste is ~1/2 full, it should be sterilized in the autoclave using the 60 minute waste cycle on the autoclave. After autoclaving, it can be transferred to the white bins next to the autoclave. **Never over-fill the waste as it makes it dangerous to handle for disposal!**.96 well plates used for MIC assays can be treated as solid waste. 
 
 
 ### Sharps
@@ -91,11 +91,11 @@ We do not currently have respirators available in the lab as we are not working 
 
 ### Aerobes
 
-All manipulations of BSL2 aerobes which could create aerosols (ex vortexing) should be conducted in a Biosafety Cabinet to prevent spread. When BSL2 agents are centrifuged, be sure to use a centrifuge which has the appropriate aerosol-containing rotors/safety cup such as any of our microcentrifuges. The user should wear appropriate PPE (nitrile gloves, lab coat and glasses) and avoid blocking the entire back of the hood which can disrupt air flow. Discard all materials inside the BSC into the red biohazardous disposal bin inside the hood. When you finish your work, wipe down the work surfaces with 70˚C Ethanol and turn the UV light on for at least 30 minutes. Discard gloves in biohazardous trash. Cultures can be grown in the incubators in 304C; however, manipulations of said cultures should be always done in the biological safety cabinet.
+All manipulations of BSL2 aerobes which could create aerosols (ex vortexing) should be conducted in a Biosafety Cabinet to prevent spread. When BSL2 agents are centrifuged, be sure to use a centrifuge which has the appropriate aerosol-containing rotors/safety cup such as any of our microcentrifuges. The user should wear appropriate PPE (nitrile gloves, lab coat and glasses) and avoid blocking the entire back of the hood which can disrupt air flow. Discard all materials inside the BSC into the red biohazardous disposal bin inside the hood. When you finish your work, wipe down the work surfaces with 70% Ethanol and turn the UV light on for at least 30 minutes. Discard gloves in biohazardous trash. Cultures can be grown in the incubators in 304C; however, manipulations of said cultures should be always done in the biological safety cabinet.
 
 ### Anaerobes
 
-Manipulation of facultative anaerobes or aerotolerant anaerobes should be conducted as per Aerobes in a biological safety cabinet. For obligate anaerobes, manipulate all cultures inside of Coy Anaerobic Chamber. Before and after work, wipe all surfaces down with 100% isopropanol. All materials which contact cultures inside the coy should be discarded into the biohazardous bin inside the anaerobic chamber. Empty the anaerobic chamber's biohazardous waste into the main lab's biohazardous waste for disposal above.
+Manipulation of facultative anaerobes or aerotolerant anaerobes should be conducted as per Aerobes in a biological safety cabinet. For obligate anaerobes, manipulate all cultures inside of Coy Anaerobic Chamber. Before and after work, wipe all surfaces down with 100% isopropanol. All materials which contact cultures inside the coy should be discarded into the biohazardous bin inside the anaerobic chamber. Liquid cultures in the anaerobic chambers should be bleached before they are taken out of the exchange gasket. Empty the anaerobic chamber's biohazardous waste into the main lab's biohazardous waste for disposal above. 
 
 ### Animals
 
