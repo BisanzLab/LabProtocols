@@ -111,6 +111,6 @@ If only a few samples are being processed this will be faster. The Qiagen PCR cl
 ## 8. Cleaning and interpreting sequence
 - [ ] When sequence results are available (usually next day), download **.ab1** files.
 - [ ] Using [4 Peaks](https://nucleobytes.com/4peaks/index.html) (mac) or [FinchTV](http://jblseqdat.bioc.cam.ac.uk/gnmweb/download/soft/FinchTV_1.4/doc/) (windows) trim trace to remove any Ns, resolving them by manually inspecting the electropherogram where possible.
-- [ ] Overlap sequences using a program such as [CAP3](http://doua.prabi.fr/software/cap3).
+- [ ] If you sequenced from both sides: overlap sequences using a program such as [CAP3](http://doua.prabi.fr/software/cap3).
 - [ ] [Nucleotide BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) against NCBI nr and NCBI 16S reference sequences excluding matches to uncultured material.
 - [ ] A species level identification should involve a >97% match over the entire length of the product to a defined species. If there are multiple equal matches (for example to <i>Lactobacillus casei</i>, and <i>Lactobacillus rhamnosus</i>), it will not be possible to resolve the species from 16S rRNA alone. Try excluding the species your top hit is against and see the nearest match.
