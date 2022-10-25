@@ -1,4 +1,4 @@
-# Bacterial Quantification by the Drop Plate MEthod
+# Bacterial Quantification by the Drop Plate Method
 
 This protocol is about how to properly do a serial dilution in the context of calculating the concentration of a bacterial culture (ex. *C. difficile* spore stock).
 
@@ -7,7 +7,7 @@ Serial dilution refers to the idea of diluting a solution in a stepwise manner. 
 ## Bacterial enumeration by drop plate:
 #### Supplies and equipment:
 - [ ] 1X Phosphate Buffer Saline (PBS)
-- [ ] TCCFA plates (or appropriatem edia)
+- [ ] TCCFA plates (or appropriate media)
 - [ ] Pipettes and sterile tips
 - [ ] Microcentrifuge tubes or 96-well plates
 
