@@ -155,6 +155,17 @@
 | Na2HPO4 | 14.4 g | Sigma S9763-100G |
 | KH2PO4 | 2.4 g | Sigma P5655-100G |
 
+## MRS-Vancomycin Agar 
+**Use:** Selection of *Lactobacillus* 
+
+**Instructions:** Mix water, MRS, Agar, and autoclave on liquid 20 cycle. Cool and add vancomycin filter sterilized.
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 1L | - | - | - | - |
+| MRS | 33 g | RPI 31FZ13 | - | 33g/L |
+| Agar | 15 g | Sigma A5306 | - | 15 g/L |
+| Vancomycin | 10 mL | VWR 97062-548 | 50 mg/mL | 50 ug/mL |
 ***
 
 ## Supplements
