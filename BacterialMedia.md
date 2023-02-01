@@ -165,7 +165,7 @@
 | Water | Up to 1L | - | - | - | - |
 | MRS | 33 g | RPI 31FZ13 | - | 33g/L |
 | Agar | 15 g | Sigma A5306 | - | 15 g/L |
-| Vancomycin | 10 mL | VWR 97062-548 | 50 mg/mL | 50 ug/mL |
+| Vancomycin | 2 mL | VWR 97062-548 | 25 mg/mL | 50 ug/mL |
 ***
 
 ## Supplements
@@ -214,3 +214,6 @@ Dissolve 100 mg d-cycloserine (Sigma C6880) in 4 ml water. Filter sterilize usin
 
 ### Sodium Taurocholate (10% w/v)
 Dissolve 400 mg in 4 mL water.  Filter sterilize using a 0.45-µm filter and freeze for storage. 
+
+### Vancomycin (25 mg/mL)
+Dissolve 250 mg in 10 mL water. Store at -20˚C.
