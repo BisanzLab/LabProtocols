@@ -92,7 +92,7 @@
 | Sheeps blood | 20 mL | Fisher 50863756 | - | 5% w/v |
 | Arginine | 20mL | Sigma A5006 | 100 g/L | 5 g/L (0.5%w/v) |
 
-## Breat Heart Infusion + Yeast Extract (BHIS)
+## Brain Heart Infusion + Yeast Extract (BHIS)
 **Use:** Routine growth of *C. difficile*.
 
 **Instructions:** Mix water, BHI, Agar (if solid media desired), yeast extract, and autoclave on liquid 20 cycle. Cool and add cysteine.
@@ -105,7 +105,7 @@
 | Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
 
 
-## Breat Heart Infusion + Yeast Extract + Thiamphenicol + D-Cycloserine + Cefoxitin (BHIS TCC)
+## Brain Heart Infusion + Yeast Extract + Thiamphenicol + D-Cycloserine + Cefoxitin (BHIS TCC)
 **Use:** Selection of *C. difficile* transconjugants carrying thiamphenicol/chloramphenicol resistance.
 
 **Instructions:** Mix water, BHI, Agar, and autoclave on liquid 20 cycle. Cool and add cysteine, thiamphenicol, D-cycloserine and cefoxitin.
@@ -182,7 +182,7 @@ Dissolve 50mg vitamin k3 (menadione; Sigma M5625) in 50mL 100% ethanol. Store at
 ### Hemin (5 mg/mL)
 Dissolve 50mg hemin (Sigma 51280) in 10mL 1N NaOH. Sterilize with 0.2 µM filter. Store at 4˚C.
 
-### Resazurin (0.25 % w/v)
+### Resazurin (0.025 % w/v)
 Dissolve 25 mg resazurin (Sigma R7017) in 100 mL water and filter sterilize with 0.2 µM filter. Store at 4˚C.
 
 ### Sheeps Blood
