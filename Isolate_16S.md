@@ -72,7 +72,7 @@ Holding	| 4˚C	Hold | 0 sec
 
 #### Option A: AMPure XP beads
 This protocol works better for a large number of samples being processed.
-- [ ] Add 18 µL AMPure XP beads (make sure well suspended) to 20 µL PCR reaction (0.9x volume beads)
+- [ ] Add 36 µL AMPure XP beads (make sure well suspended) to 20 µL PCR reaction (1.8x volume beads)
 - [ ] Mix by pipetting and capture for ~5 min on magnetic rack
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
 - [ ] Keeping tubes on magnetic rack, remove supernatant and replace with 200 µL fresh 70% ethanol.
