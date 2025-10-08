@@ -142,6 +142,17 @@
 | Sodium Taurocholate | 400mg | Sigma T4009 | - | 1mg/mL (0.1% w/v) |
 | D-cycloserine | 100 mg | Sigma C6880 | - | 250 ug/mL |
 
+## Luria Broth Agar (LB)
+**Use:** Routine growth of E. coli; add selective antibiotics for transformants based on resistance.
+
+**Instructions:** Mix water, LB, agar, and autoclave. After cooling the media from the autoclave, add antibiotics.
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 400 mL | - | - | - | - |
+| Luria Broth | 8 g | BD 240230 | - | 20 g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+
 ## 10X PBS
 **Use:** Serial Dilutions of cultures
 
