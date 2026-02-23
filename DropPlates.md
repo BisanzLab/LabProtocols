@@ -16,7 +16,7 @@ Serial dilution refers to the idea of diluting a solution in a stepwise manner. 
 #### Plating
 - [ ] Bring supplies into the anaerobic chamber a day ahead to remove the oxygen in the supplies. 
 - [ ] Spray the bench surface and gloves with isopropanol to sanitize.
-- [ ] Add 900 uL of 1X PBS in 7 microcentrifuge tubes and label in tubes or 90 uL in a 96-well plate with 1e3, 1e4. 1e5, 1e6, 1e7, 1e8, 1e9, 1e10
+- [ ] Add 900 uL of 1X PBS in 7 microcentrifuge tubes and label in tubes or 90 uL in a 96-well plate with 1e3, 1e4. 1e5, 1e6, 1e7, 1e8, 1e9, 1e10 (DF = Dilution/plating volume, ex. 10 uL Culture in 90 uL PBS is 1e-1, divided by 10 uL drop (0.01 mL) is 1e-3)
 - [ ] Transfer 100 uL of the stock culture into the tube (or 10 uL into 96 well plate) labeled as 10<sup></sup>-3  and mix by pipetting up and down. Discard the tip. A 10 fold dilution is performed here. 
 - [ ] Transfer 100 uL (or 10 uL) from 1e3 to 1e4  with a new tip and mix by pipetting. This is another 10 fold dilution. 
 - [ ] Repeat serial dilution across the entire range changing tips each time.
@@ -49,4 +49,5 @@ Dilution | Colony Count 1 | Colony Count 2 | Colony Count 3
 
 **Average CFU/mL = ((26 ×10<sup></sup>8)＋(20 ×10<sup></sup>8)＋(28 × 10<sup></sup>8)＋(5 × 10<sup></sup>9)＋(4 × 10<sup></sup>9)) ÷ 5
                = 3 × 10<sup></sup>9 CFU/mL 
+**Dilution factor values include drop volume scaling. (i.e. 10 uL Culture in 90 uL PBS is a 1e-1 dilution, but divided by 10 uL drop volume (0.01 mL) is 1e-3). If using 5 uL drops, the calculated CFU/mL values must be multiplied by 2 to account for the smaller plating volume. 
                
