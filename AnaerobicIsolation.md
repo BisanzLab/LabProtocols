@@ -50,6 +50,7 @@ CIN | Proteobacteria, *Yersinia spp.*, *Aeromonas spp.*
 ## Day 5
 - [ ] Using a Pipette tip, pick a single well-isolated colony from the original plate and do a quadrant streak on a new plate (of the same type) to purify. 
 - [ ] Incubate new plate at 37˚C for 72h.
+- [ ] Be sure to not store plates in the incubator once grown.
 
 ## Day 8
 - [ ] Inspect the new plates to ensure that the colonies are homogenous in morphology.
@@ -59,8 +60,10 @@ CIN | Proteobacteria, *Yersinia spp.*, *Aeromonas spp.*
 
 ## Day 11
 - [ ] Transfer a single colony from the third round of streak purification into 3mL mGAM.
+- [ ] Be sure to dip a pipette tip into sterile control as an extra check for contamination.
 - [ ] Note the colony morphology and approximate growth rate of the culture in your lab notebook.
 - [ ] Incubate for 2-3 days.
+- [ ] Be sure to not store liquid cultures in the incubator once grown.
 
 ## Day 13-Day 14
 - [ ] Transfer 200 µL of liquid culture to a 1.5mL microcentrifuge tube to proceed to sanger [16S rRNA sequencing](https://github.com/BisanzLab/LabProtocols/blob/main/Isolate_16S.md). *Note: this can be frozen at -80˚C and processed later*.
