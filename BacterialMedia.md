@@ -188,7 +188,7 @@ Dissolve 50 g L-arginine (Sigma A5006) in 500 mL water. Autoclave for 20min or 0
 Dissolve 2.5g (Sigma 168149) in 50mL water. Filter-sterilize (0.2µM) and store at RT to prevent crashing out. Heat in waterbath as necessary to (re)dissolve.
 
 ### Vitamin K (1 mg/mL)
-Dissolve 50mg vitamin k3 (menadione; Sigma M5625) in 50mL 100% ethanol. Store at 4˚C protected from light.
+Dissolve 50mg vitamin k3 (menadione; Sigma M5625) in 50mL 100% ethanol. DO NOT FILTER. Store at 4˚C protected from light.
 
 ### Hemin (5 mg/mL)
 Dissolve 50mg hemin (Sigma 51280) in 10mL 1N NaOH. Sterilize with 0.2 µM filter. Store at 4˚C.
